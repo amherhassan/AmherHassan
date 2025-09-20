@@ -3,7 +3,7 @@
 ### Computer Science Undergraduate | Aspiring Software Engineer
 
 <p align="left">
-  <a href="https://linkedin.com/in/amher hassan" target="_blank">
+  <a href="https://www.linkedin.com/in/amherhassan10652/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:mohamher55@gmail.com">
